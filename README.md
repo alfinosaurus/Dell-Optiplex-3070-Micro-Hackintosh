@@ -1,1 +1,3 @@
-# Dell-Optiplex-3070-Micro-Hackintosh
+# Dell Optiplex 3070 Micro Hackintosh
+
+Work in progress...
